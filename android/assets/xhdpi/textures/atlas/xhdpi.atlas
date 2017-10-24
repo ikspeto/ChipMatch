@@ -1,0 +1,315 @@
+
+xhdpi.png
+size: 1012,1016
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+achievements_banner_button
+  rotate: false
+  xy: 2, 671
+  size: 1010, 345
+  orig: 1010, 345
+  offset: 0, 0
+  index: -1
+achievements_banner_button_pressed
+  rotate: false
+  xy: 2, 324
+  size: 1010, 345
+  orig: 1010, 345
+  offset: 0, 0
+  index: -1
+leaderboard
+  rotate: false
+  xy: 2, 2
+  size: 470, 320
+  orig: 470, 320
+  offset: 0, 0
+  index: -1
+leaderboard_pressed
+  rotate: false
+  xy: 474, 2
+  size: 470, 320
+  orig: 470, 320
+  offset: 0, 0
+  index: -1
+
+xhdpi2.png
+size: 1012,1006
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+action_button
+  rotate: false
+  xy: 2, 2
+  size: 880, 310
+  orig: 880, 310
+  offset: 0, 0
+  index: -1
+black_circle
+  rotate: false
+  xy: 884, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+black_circle_s
+  rotate: false
+  xy: 884, 110
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+game_over_banner
+  rotate: false
+  xy: 2, 661
+  size: 1010, 345
+  orig: 1010, 345
+  offset: 0, 0
+  index: -1
+joker_circle
+  rotate: false
+  xy: 884, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+leaderboard_banner_button
+  rotate: false
+  xy: 2, 314
+  size: 1010, 345
+  orig: 1010, 345
+  offset: 0, 0
+  index: -1
+
+xhdpi3.png
+size: 1012,1006
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+action_button_pressed
+  rotate: false
+  xy: 2, 2
+  size: 880, 310
+  orig: 880, 310
+  offset: 0, 0
+  index: -1
+joker_circle_s
+  rotate: false
+  xy: 884, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+leaderboard_banner_button_pressed
+  rotate: false
+  xy: 2, 661
+  size: 1010, 345
+  orig: 1010, 345
+  offset: 0, 0
+  index: -1
+level_finished_banner
+  rotate: false
+  xy: 2, 314
+  size: 1010, 345
+  orig: 1010, 345
+  offset: 0, 0
+  index: -1
+orange_circle
+  rotate: false
+  xy: 884, 110
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+orange_circle_s
+  rotate: false
+  xy: 884, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+xhdpi4.png
+size: 991,1001
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back_button
+  rotate: false
+  xy: 769, 24
+  size: 150, 78
+  orig: 150, 78
+  offset: 0, 0
+  index: -1
+blue_circle
+  rotate: false
+  xy: 769, 104
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+continue_button
+  rotate: false
+  xy: 2, 2
+  size: 765, 252
+  orig: 765, 252
+  offset: 0, 0
+  index: -1
+more_games_button
+  rotate: false
+  xy: 2, 256
+  size: 880, 310
+  orig: 880, 310
+  offset: 0, 0
+  index: -1
+red_circle
+  rotate: false
+  xy: 884, 466
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+red_circle_s
+  rotate: false
+  xy: 884, 364
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yellow_frame
+  rotate: false
+  xy: 2, 568
+  size: 989, 433
+  orig: 989, 433
+  offset: 0, 0
+  index: -1
+
+xhdpi5.png
+size: 1007,1018
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back_button_pressed
+  rotate: false
+  xy: 839, 82
+  size: 150, 78
+  orig: 150, 78
+  offset: 0, 0
+  index: -1
+blue_circle_s
+  rotate: false
+  xy: 687, 10
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+grid
+  rotate: false
+  xy: 2, 23
+  size: 683, 683
+  orig: 683, 683
+  offset: 0, 0
+  index: -1
+menu_text
+  rotate: false
+  xy: 839, 2
+  size: 150, 78
+  orig: 150, 78
+  offset: 0, 0
+  index: -1
+more_games_button_pressed
+  rotate: false
+  xy: 2, 708
+  size: 880, 310
+  orig: 880, 310
+  offset: 0, 0
+  index: -1
+rate_button
+  rotate: false
+  xy: 687, 526
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+rate_button_pressed
+  rotate: false
+  xy: 687, 344
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+share_button
+  rotate: false
+  xy: 687, 162
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+
+xhdpi6.png
+size: 882,878
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+continue_button_pressed
+  rotate: false
+  xy: 2, 2
+  size: 765, 252
+  orig: 765, 252
+  offset: 0, 0
+  index: -1
+relax_button
+  rotate: false
+  xy: 2, 568
+  size: 880, 310
+  orig: 880, 310
+  offset: 0, 0
+  index: -1
+relax_button_pressed
+  rotate: false
+  xy: 2, 256
+  size: 880, 310
+  orig: 880, 310
+  offset: 0, 0
+  index: -1
+
+xhdpi7.png
+size: 442,990
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+exit_button
+  rotate: false
+  xy: 2, 790
+  size: 440, 200
+  orig: 440, 200
+  offset: 0, 0
+  index: -1
+exit_button_pressed
+  rotate: false
+  xy: 2, 588
+  size: 440, 200
+  orig: 440, 200
+  offset: 0, 0
+  index: -1
+retry_button
+  rotate: false
+  xy: 2, 386
+  size: 440, 200
+  orig: 440, 200
+  offset: 0, 0
+  index: -1
+retry_button_pressed
+  rotate: false
+  xy: 2, 184
+  size: 440, 200
+  orig: 440, 200
+  offset: 0, 0
+  index: -1
+share_button_pressed
+  rotate: false
+  xy: 2, 2
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1

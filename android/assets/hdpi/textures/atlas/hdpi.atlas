@@ -1,0 +1,333 @@
+
+hdpi.png
+size: 984,1016
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+YourScoreIs
+  rotate: false
+  xy: 544, 14
+  size: 380, 64
+  orig: 380, 64
+  offset: 0, 0
+  index: -1
+action_button
+  rotate: false
+  xy: 544, 861
+  size: 440, 155
+  orig: 440, 155
+  offset: 0, 0
+  index: -1
+action_button_pressed
+  rotate: false
+  xy: 544, 704
+  size: 440, 155
+  orig: 440, 155
+  offset: 0, 0
+  index: -1
+back_button
+  rotate: false
+  xy: 2, 2
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1
+back_button_pressed
+  rotate: false
+  xy: 104, 2
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1
+dark_tint
+  rotate: false
+  xy: 2, 56
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+menu_text
+  rotate: false
+  xy: 206, 2
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1
+more_games_button
+  rotate: false
+  xy: 544, 548
+  size: 439, 154
+  orig: 439, 154
+  offset: 0, 0
+  index: -1
+more_games_button_pressed
+  rotate: false
+  xy: 544, 392
+  size: 439, 154
+  orig: 439, 154
+  offset: 0, 0
+  index: -1
+relax_button
+  rotate: false
+  xy: 544, 236
+  size: 439, 154
+  orig: 439, 154
+  offset: 0, 0
+  index: -1
+relax_button_pressed
+  rotate: false
+  xy: 544, 80
+  size: 439, 154
+  orig: 439, 154
+  offset: 0, 0
+  index: -1
+
+hdpi2.png
+size: 1021,978
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+achievements_banner_button
+  rotate: false
+  xy: 2, 799
+  size: 529, 179
+  orig: 529, 179
+  offset: 0, 0
+  index: -1
+achievements_banner_button_pressed
+  rotate: false
+  xy: 2, 618
+  size: 529, 179
+  orig: 529, 179
+  offset: 0, 0
+  index: -1
+black_circle
+  rotate: false
+  xy: 510, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+black_circle_s
+  rotate: false
+  xy: 612, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+blue_circle
+  rotate: false
+  xy: 510, 104
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+blue_circle_s
+  rotate: false
+  xy: 662, 142
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+continue_button
+  rotate: false
+  xy: 533, 877
+  size: 310, 101
+  orig: 310, 101
+  offset: 0, 0
+  index: -1
+continue_button_pressed
+  rotate: false
+  xy: 533, 774
+  size: 310, 101
+  orig: 310, 101
+  offset: 0, 0
+  index: -1
+exit_button
+  rotate: false
+  xy: 533, 661
+  size: 243, 111
+  orig: 243, 111
+  offset: 0, 0
+  index: -1
+exit_button_pressed
+  rotate: false
+  xy: 778, 591
+  size: 243, 111
+  orig: 243, 111
+  offset: 0, 0
+  index: -1
+facebook_button
+  rotate: false
+  xy: 714, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+facebook_button_pressed
+  rotate: false
+  xy: 814, 214
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+game_over_banner
+  rotate: false
+  xy: 2, 437
+  size: 529, 179
+  orig: 529, 179
+  offset: 0, 0
+  index: -1
+joker_circle
+  rotate: false
+  xy: 916, 214
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+joker_circle_s
+  rotate: false
+  xy: 816, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+leaderboard
+  rotate: false
+  xy: 533, 386
+  size: 235, 160
+  orig: 235, 160
+  offset: 0, 0
+  index: -1
+leaderboard_banner_button
+  rotate: false
+  xy: 2, 256
+  size: 529, 179
+  orig: 529, 179
+  offset: 0, 0
+  index: -1
+leaderboard_pressed
+  rotate: false
+  xy: 770, 316
+  size: 235, 160
+  orig: 235, 160
+  offset: 0, 0
+  index: -1
+orange_circle
+  rotate: false
+  xy: 918, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+orange_circle_s
+  rotate: false
+  xy: 816, 10
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rate_button
+  rotate: false
+  xy: 845, 888
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+rate_button_pressed
+  rotate: false
+  xy: 845, 796
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+red_circle
+  rotate: false
+  xy: 918, 10
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+retry_button
+  rotate: false
+  xy: 533, 548
+  size: 243, 111
+  orig: 243, 111
+  offset: 0, 0
+  index: -1
+retry_button_pressed
+  rotate: false
+  xy: 778, 478
+  size: 243, 111
+  orig: 243, 111
+  offset: 0, 0
+  index: -1
+share_button
+  rotate: false
+  xy: 845, 704
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+share_button_pressed
+  rotate: false
+  xy: 533, 294
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+yellow_frame
+  rotate: false
+  xy: 2, 32
+  size: 506, 222
+  orig: 506, 222
+  offset: 0, 0
+  index: -1
+
+hdpi3.png
+size: 605,967
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+grid
+  rotate: false
+  xy: 2, 466
+  size: 501, 501
+  orig: 501, 501
+  offset: 0, 0
+  index: -1
+leaderboard_banner_button_pressed
+  rotate: false
+  xy: 2, 285
+  size: 529, 179
+  orig: 529, 179
+  offset: 0, 0
+  index: -1
+level_finished_banner
+  rotate: false
+  xy: 2, 104
+  size: 529, 179
+  orig: 529, 179
+  offset: 0, 0
+  index: -1
+red_circle_s
+  rotate: false
+  xy: 505, 867
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+twitter_button
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+twitter_button_pressed
+  rotate: false
+  xy: 505, 765
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
